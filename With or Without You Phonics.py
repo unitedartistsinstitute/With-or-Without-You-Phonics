@@ -255,7 +255,7 @@
               </div>
             )}
             <div className="mt-4 text-xs text-gray-500 text-center">
-              © 2025 Daniel Rojas :: TΣʃ :: ✉ unitedartistsinstitute@gmail.com
+              © 2025 Daniel Rojas :: TΣʃ :: ✉ CVO@tesh.pro
             </div>
           </div>
         </div>
